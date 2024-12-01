@@ -210,7 +210,7 @@
       this.inText = false;
       // Transparency
       this.opacity = 0;
-      this.fadeInRate = 0.005;
+      this.fadeInRate = 0.05;
       this.fadeOutRate = 0.03;
       this.opacityTresh = 0.98;
       this.fadingOut = true;
